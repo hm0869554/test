@@ -1,0 +1,22 @@
+{
+  "name": "gitty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hm0869554/test.git"
+  },
+  "author": "Hunter Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hm0869554/test/issues"
+  },
+  "homepage": "https://github.com/hm0869554/test#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
